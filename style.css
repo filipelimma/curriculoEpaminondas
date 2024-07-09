@@ -1,0 +1,73 @@
+#principalDiv {
+    display:flex;
+
+}
+
+
+.primeiraDiv {
+    width: 400px;
+    height: 1000px;
+    background-color:gray;
+    border: 1px solid black;
+}
+
+.segundaDiv {
+    
+    margin:0px;
+    width: 1000px;
+    height: 1000px;
+    background-color:whitesmoke;
+    border: 1px solid rgb(26, 26, 26);
+}
+
+.epaminondas {
+    background-image: url(assets/afe800b1ff26d86756ca1607df15eaa9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 250px;
+    height: 250px;
+    margin: 58px;
+}
+
+.contato {
+    margin: 30px;
+    color: rgb(26, 26, 26);
+    line-height: 1.0;
+}
+
+.formacao {
+    margin: 30px;
+    color: rgb(26, 26, 26);
+    line-height: 1.0;
+}
+
+.habilidades {
+    margin: 30px;
+    color: rgb(26, 26, 26);
+    line-height: 1.0;
+}
+
+.idiomas {
+    margin: 30px;
+    color: rgb(26, 26, 26);
+    line-height: 1.0;
+}
+
+#formacao {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#anos {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#universidade {
+    font-size: 14px;
+}
+
+.listaHabilidades {
+    list-style-type:disc;
+}
